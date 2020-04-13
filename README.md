@@ -1,11 +1,11 @@
+
+
 dati ricavati con query overpass:
 
-```
-( area[name=Cuneo]; )->.searchArea;
+{{geocodeArea:Perugia, Perugia}}->.searchArea;
 (
-  nwr["delivery"][delivery!=no]["name"!="La cantinetta"]["name"!="Tokyo Fusion Restaurant"](area.searchArea);
+  nwr["delivery:covid19"="yes"](area.searchArea);
 );
-out body center;
+out center;
 >;
 
-```
