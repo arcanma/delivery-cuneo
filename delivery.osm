@@ -1,20 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.2 b688b00f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-14T14:28:03Z" areas="2020-04-14T10:36:02Z"/>
+<meta osm_base="2020-04-14T15:52:03Z" areas="2020-04-14T14:48:02Z"/>
 
-  <node id="1327751345" lat="43.1040620" lon="12.3739953">
-    <tag k="addr:city" v="Perugia"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="06128"/>
-    <tag k="addr:street" v="Via Sicilia"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="name" v="Pizza Express"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="1410495345" lat="43.1326241" lon="12.3621422">
     <tag k="addr:city" v="Perugia"/>
     <tag k="addr:country" v="IT"/>
@@ -138,36 +126,6 @@
     <tag k="phone:mobile" v="+39 331 8779470"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.imattarelli.it/"/>
-  </node>
-  <node id="4518215609" lat="43.1126513" lon="12.3902663">
-    <tag k="addr:city" v="Perugia"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="06100"/>
-    <tag k="addr:street" v="Piazza Piccinino"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="capacity" v="30"/>
-    <tag k="cuisine" v="regional;pizza"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="name" v="Mediterranea"/>
-    <tag k="opening_hours" v="12:30 - 14:30; 19:30 - 23:00"/>
-    <tag k="takeaway" v="yes"/>
-  </node>
-  <node id="5121562680" lat="43.1044316" lon="12.3893199">
-    <tag k="addr:city" v="Perugia"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="06126"/>
-    <tag k="addr:street" v="Piazzale Europa"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="email" v="marcopensieri81@gmail.com"/>
-    <tag k="name" v="Pizza Pizza"/>
-    <tag k="opening_hours" v="Tu-Su 18:00-22:00"/>
-    <tag k="phone" v="+39 3382150010"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://www.magnafebo.it/"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="7381728319" lat="43.0996462" lon="12.3869884">
     <tag k="addr:city" v="Perugia"/>
