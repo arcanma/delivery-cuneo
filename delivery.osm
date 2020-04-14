@@ -1,8 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
+<osm version="0.6" generator="Overpass API 0.7.56.2 b688b00f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-13T08:01:03Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-14T14:28:03Z" areas="2020-04-14T10:36:02Z"/>
 
+  <node id="1327751345" lat="43.1040620" lon="12.3739953">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="06128"/>
+    <tag k="addr:street" v="Via Sicilia"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Pizza Express"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1410495345" lat="43.1326241" lon="12.3621422">
     <tag k="addr:city" v="Perugia"/>
     <tag k="addr:country" v="IT"/>
@@ -41,7 +53,7 @@
     <tag k="addr:postcode" v="06070"/>
     <tag k="addr:street" v="Strada Cenerente - Colle Umberto"/>
     <tag k="amenity" v="pub"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/notoriouspubperugia/?ref=page_internal"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/notoriouspubperugia/"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="nicolagamannossi@gmail.com"/>
     <tag k="name" v="Notorious Pub"/>
@@ -66,6 +78,20 @@
     <tag k="phone:mobile" v="+39 333 3540052"/>
     <tag k="website" v="https://www.trilogyclub.it/"/>
     <tag k="website:covid19" v="https://trilogy.ordini.online/"/>
+  </node>
+  <node id="2881724861" lat="43.0993857" lon="12.3911954">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="39A"/>
+    <tag k="addr:postcode" v="06126"/>
+    <tag k="addr:street" v="Via dei Filosofi"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/gastronomiafilosofiperugia/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="email" v="gastronomiafilosofi@gmail.com"/>
+    <tag k="name" v="Gastronomia Filosofi"/>
+    <tag k="opening_hours" v="Tu-Sa 10:00-14:30,16:30-18:00; Su 10:00-15:00"/>
+    <tag k="phone" v="+39 075 9977730"/>
+    <tag k="phone:mobile" v="+39 347 8923063"/>
+    <tag k="shop" v="deli"/>
   </node>
   <node id="3668404409" lat="43.0823208" lon="12.3442517">
     <tag k="addr:city" v="Perugia"/>
@@ -112,6 +138,36 @@
     <tag k="phone:mobile" v="+39 331 8779470"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.imattarelli.it/"/>
+  </node>
+  <node id="4518215609" lat="43.1126513" lon="12.3902663">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="06100"/>
+    <tag k="addr:street" v="Piazza Piccinino"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="capacity" v="30"/>
+    <tag k="cuisine" v="regional;pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Mediterranea"/>
+    <tag k="opening_hours" v="12:30 - 14:30; 19:30 - 23:00"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="5121562680" lat="43.1044316" lon="12.3893199">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="06126"/>
+    <tag k="addr:street" v="Piazzale Europa"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="marcopensieri81@gmail.com"/>
+    <tag k="name" v="Pizza Pizza"/>
+    <tag k="opening_hours" v="Tu-Su 18:00-22:00"/>
+    <tag k="phone" v="+39 3382150010"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.magnafebo.it/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="7381728319" lat="43.0996462" lon="12.3869884">
     <tag k="addr:city" v="Perugia"/>
@@ -176,6 +232,35 @@
     <tag k="name" v="Vino &amp; Gusto"/>
     <tag k="phone:mobile" v="+39 324 9990411"/>
     <tag k="shop" v="wine"/>
+  </node>
+  <node id="7402349012" lat="43.1001417" lon="12.3646201">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="06128"/>
+    <tag k="addr:street" v="Largo Madonna Alta"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Cantina-Sasso-dei-Lupi-290803285103485/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="email" v="madonnalta@sassodeilupi.it"/>
+    <tag k="name" v="Cantina Sasso dei Lupi"/>
+    <tag k="opening_hours:covid19" v="Mo-Sa 09:00-13:00"/>
+    <tag k="phone" v="+39 075 5010303"/>
+    <tag k="shop" v="wine"/>
+    <tag k="website" v="https://www.sassodeilupi.it/"/>
+  </node>
+  <node id="7402349013" lat="43.1113694" lon="12.4060991">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:postcode" v="06126"/>
+    <tag k="addr:street" v="Via Enrico dal Pozzo"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/BastianBirraio/"/>
+    <tag k="craft" v="brewery"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description:covid19:it" v="Ordine minimo 40€ iva inclusa. Il 10% di tutte le vendite on-line provenienti dalla provincia di Perugia verrà devoluto in beneficenza all'Ospedale S. Maria della Misericordia di Perugia."/>
+    <tag k="email" v="produzione@bastianbirraio.it"/>
+    <tag k="name" v="BastianBirraio"/>
+    <tag k="phone:mobile" v="+39 347 8241127"/>
+    <tag k="website" v="https://www.bastianbirraio.it/"/>
   </node>
 
 </osm>
