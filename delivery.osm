@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.56.2 b688b00f">
+<osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-14T15:52:03Z" areas="2020-04-14T14:48:02Z"/>
+<meta osm_base="2020-04-15T15:44:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1410495345" lat="43.1326241" lon="12.3621422">
     <tag k="addr:city" v="Perugia"/>
@@ -80,6 +80,22 @@
     <tag k="phone" v="+39 075 9977730"/>
     <tag k="phone:mobile" v="+39 347 8923063"/>
     <tag k="shop" v="deli"/>
+  </node>
+  <node id="3214050410" lat="43.0960386" lon="12.3901754">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="06126"/>
+    <tag k="addr:street" v="Via della Pallotta"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/gattoneropg/"/>
+    <tag k="cuisine" v="coffee_shop;italian;pizza"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description:covid19:it" v="Vedere pagina facebook per menu, orari e prezzi"/>
+    <tag k="email" v="ceciliacherubini@alice.it"/>
+    <tag k="name" v="Gatto Nero"/>
+    <tag k="opening_hours:covid19" v="off"/>
+    <tag k="phone" v="+39 075 31783"/>
+    <tag k="takeaway" v="yes"/>
   </node>
   <node id="3668404409" lat="43.0823208" lon="12.3442517">
     <tag k="addr:city" v="Perugia"/>
@@ -219,6 +235,39 @@
     <tag k="name" v="BastianBirraio"/>
     <tag k="phone:mobile" v="+39 347 8241127"/>
     <tag k="website" v="https://www.bastianbirraio.it/"/>
+  </node>
+  <node id="7404927779" lat="43.1169977" lon="12.3782779">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="06123"/>
+    <tag k="addr:street" v="Via Annibale Vecchi"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/irosticceriperugia/"/>
+    <tag k="cuisine" v="barbecue;burger;pasta;chicken"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description:covid19:it" v="Per info su consegna a domicilio vedere sito web"/>
+    <tag k="email" v="info@irosticceriperugia.it"/>
+    <tag k="name" v="I Rosticcieri"/>
+    <tag k="opening_hours:covid19" v="off"/>
+    <tag k="phone" v="+39 075 42302"/>
+    <tag k="takeaway:covid19" v="no"/>
+    <tag k="website" v="https://www.irosticceriperugia.it/"/>
+  </node>
+  <node id="7404927780" lat="43.0956802" lon="12.3906791">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="06121"/>
+    <tag k="addr:street" v="Piazza Gabriele D'annunzio"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/pizzeriapietrino/"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description:covid19:it" v="Consegna a domicilio dalle 18 tutti i giorni tranne il lunedì"/>
+    <tag k="email" v="pizzeriapietrino2017@libero.it"/>
+    <tag k="name" v="Pizzeria Pietrino"/>
+    <tag k="opening_hours:covid19" v="off"/>
+    <tag k="phone" v="+39 075 9662925"/>
   </node>
 
 </osm>
