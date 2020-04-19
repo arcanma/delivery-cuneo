@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-15T15:44:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-19T16:33:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1410495345" lat="43.1326241" lon="12.3621422">
     <tag k="addr:city" v="Perugia"/>
@@ -90,7 +90,7 @@
     <tag k="contact:facebook" v="https://www.facebook.com/gattoneropg/"/>
     <tag k="cuisine" v="coffee_shop;italian;pizza"/>
     <tag k="delivery:covid19" v="yes"/>
-    <tag k="description:covid19:it" v="Vedere pagina facebook per menu, orari e prezzi"/>
+    <tag k="description:it:covid19" v="Vedere pagina facebook per menu, orari e prezzi"/>
     <tag k="email" v="ceciliacherubini@alice.it"/>
     <tag k="name" v="Gatto Nero"/>
     <tag k="opening_hours:covid19" v="off"/>
@@ -142,6 +142,17 @@
     <tag k="phone:mobile" v="+39 331 8779470"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.imattarelli.it/"/>
+  </node>
+  <node id="4529101714" lat="43.1064017" lon="12.3914671">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:postcode" v="06121"/>
+    <tag k="addr:street" v="Corso Cavour"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="email" v="zulicch@hotmail.com"/>
+    <tag k="name" v="Il Chiostro delle Erbe"/>
+    <tag k="phone" v="+39 075 5729823"/>
+    <tag k="shop" v="herbalist"/>
   </node>
   <node id="7381728319" lat="43.0996462" lon="12.3869884">
     <tag k="addr:city" v="Perugia"/>
@@ -230,7 +241,7 @@
     <tag k="craft" v="brewery"/>
     <tag k="delivery" v="yes"/>
     <tag k="delivery:covid19" v="yes"/>
-    <tag k="description:covid19:it" v="Ordine minimo 40€ iva inclusa. Il 10% di tutte le vendite on-line provenienti dalla provincia di Perugia verrà devoluto in beneficenza all'Ospedale S. Maria della Misericordia di Perugia."/>
+    <tag k="description:it:covid19" v="Ordine minimo 40€ iva inclusa. Il 10% di tutte le vendite on-line provenienti dalla provincia di Perugia verrà devoluto in beneficenza all'Ospedale S. Maria della Misericordia di Perugia."/>
     <tag k="email" v="produzione@bastianbirraio.it"/>
     <tag k="name" v="BastianBirraio"/>
     <tag k="phone:mobile" v="+39 347 8241127"/>
@@ -245,7 +256,7 @@
     <tag k="contact:facebook" v="https://www.facebook.com/irosticceriperugia/"/>
     <tag k="cuisine" v="barbecue;burger;pasta;chicken"/>
     <tag k="delivery:covid19" v="yes"/>
-    <tag k="description:covid19:it" v="Per info su consegna a domicilio vedere sito web"/>
+    <tag k="description:it:covid19" v="Per info su consegna a domicilio vedere sito web"/>
     <tag k="email" v="info@irosticceriperugia.it"/>
     <tag k="name" v="I Rosticcieri"/>
     <tag k="opening_hours:covid19" v="off"/>
@@ -263,11 +274,52 @@
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery" v="yes"/>
     <tag k="delivery:covid19" v="yes"/>
-    <tag k="description:covid19:it" v="Consegna a domicilio dalle 18 tutti i giorni tranne il lunedì"/>
+    <tag k="description:it:covid19" v="Consegna a domicilio dalle 18 tutti i giorni tranne il lunedì"/>
     <tag k="email" v="pizzeriapietrino2017@libero.it"/>
     <tag k="name" v="Pizzeria Pietrino"/>
     <tag k="opening_hours:covid19" v="off"/>
     <tag k="phone" v="+39 075 9662925"/>
+  </node>
+  <node id="7415358214" lat="43.0954158" lon="12.3634668">
+    <tag k="contact:facebook" v="https://www.facebook.com/Fattoria-Luchetti-Madonna-Alta-203392586377153/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description:it:covid19" v="Consegne su comuni di Perugia e Corciano. Vedere pagina facebook per prodotti e prezzi"/>
+    <tag k="email" v="daniele.luchetti89@gmail.com"/>
+    <tag k="name" v="Fattoria Luchetti"/>
+    <tag k="opening_hours" v="Tu,Fr 09:00-19:00; Sa 09:00-15:00"/>
+    <tag k="phone" v="+39 392 4842547"/>
+    <tag k="shop" v="butcher"/>
+    <tag k="website" v="https://www.fattorialuchetti.com/"/>
+  </node>
+  <node id="7419532975" lat="43.1156122" lon="12.3629431">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="06125"/>
+    <tag k="addr:street" v="Via Della Filanda"/>
+    <tag k="brand" v="Conad"/>
+    <tag k="brand:wikidata" v="Q639075"/>
+    <tag k="brand:wikipedia" v="it:Conad"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="fax" v="+39 075 5847432"/>
+    <tag k="name" v="Conad"/>
+    <tag k="phone" v="+39 075 5847432"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.conad.it/ricerca-negozi/negozio.004203.html"/>
+  </node>
+  <node id="7419706250" lat="43.0719033" lon="12.3169184">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="207/Z10"/>
+    <tag k="addr:postcode" v="06132"/>
+    <tag k="addr:street" v="Via Pievaiola"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/farmaciastrozzacapponi/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description:covid19:it" v="Consegna farmaci per emergenza COVID19 a over 65 soli e con malattia cronica invalidante e over 75 soli e disagiati, esclusivamente ai residenti all’interno del comune di Perugia"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="email" v="farmacia.strozzacapponi@albanetsrl.it"/>
+    <tag k="name" v="Farmacia Strozzacapponi"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:00"/>
+    <tag k="phone" v="+39 075 8501176"/>
   </node>
 
 </osm>
