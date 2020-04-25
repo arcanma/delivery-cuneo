@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1004 6cd3eaec">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-25T15:17:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-25T16:07:03Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1410495345" lat="43.1326241" lon="12.3621422">
     <tag k="addr:city" v="Perugia"/>
@@ -80,6 +80,22 @@
     <tag k="phone" v="+39 075 9977730"/>
     <tag k="phone:mobile" v="+39 347 8923063"/>
     <tag k="shop" v="deli"/>
+  </node>
+  <node id="3018895433" lat="43.1109104" lon="12.3887751">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="06121"/>
+    <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/reginellapizzeriapg/"/>
+    <tag k="contact:whatsapp" v="+39 329 2188918"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="email" v="Bellezza.andrea@gmail.com"/>
+    <tag k="name" v="Pizzeria Reginella"/>
+    <tag k="opening_hours:covid19" v="off"/>
+    <tag k="phone" v="+39 075 9664082"/>
+    <tag k="phone:mobile" v="+39 347 8445180"/>
   </node>
   <node id="3214050410" lat="43.0960386" lon="12.3901754">
     <tag k="addr:city" v="Perugia"/>
@@ -344,7 +360,8 @@
     <tag k="description:covid19:it" v="Consegna a domicilio gratuita Pranzo + Cena Perugia e limitrofi. Per menù e maggiori dettagli vedere la pagina facebook"/>
     <tag k="email" v="rizzo.david@hotmail.it"/>
     <tag k="name" v="Ristorante &quot;Dal Picciotto&quot; Sicilian food"/>
-    <tag k="phone" v="+39 339 2061969"/>
+    <tag k="opening_hours:covid19" v="off"/>
+    <tag k="phone:mobile" v="+39 339 2061969"/>
     <tag k="takeaway" v="yes"/>
   </node>
   <node id="7445282578" lat="43.1278925" lon="12.3651874">
@@ -377,6 +394,24 @@
     <tag k="name" v="Il Paiolo"/>
     <tag k="opening_hours:covid19" v="off"/>
     <tag k="phone" v="+39 075 8674944"/>
+  </node>
+  <node id="7446637943" lat="43.1178239" lon="12.3644498">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="06125"/>
+    <tag k="addr:street" v="Via della Lana"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/PizzeriaAcquaFarina/"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description:covid19:it" v="Consegna a domicilio gratuita a pranzo e cena"/>
+    <tag k="email" v="carancicosimo@yahoo.it"/>
+    <tag k="name" v="Pizzeria Acqua e Farina"/>
+    <tag k="opening_hours:covid19" v="off"/>
+    <tag k="phone:mobile" v="+39 331 4267613"/>
+    <tag k="phone:mobile_1" v="+39 333 8767153"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.pizzeriaacquaefarina.com/"/>
   </node>
 
 </osm>
