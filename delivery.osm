@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.56.2 b688b00f">
+<osm version="0.6" generator="Overpass API 0.7.56.1004 6cd3eaec">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-20T17:53:02Z" areas="2020-04-20T16:43:03Z"/>
+<meta osm_base="2020-04-25T15:17:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1410495345" lat="43.1326241" lon="12.3621422">
     <tag k="addr:city" v="Perugia"/>
@@ -332,6 +332,51 @@
     <tag k="name" v="Primo Piatto Pasta fresca"/>
     <tag k="phone" v="+39 075 34033"/>
     <tag k="shop" v="pasta"/>
+  </node>
+  <node id="7445282575" lat="43.1143975" lon="12.3943672">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="06122"/>
+    <tag k="addr:street" v="Corso Bersaglieri"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description:covid19:it" v="Consegna a domicilio gratuita Pranzo + Cena Perugia e limitrofi. Per menù e maggiori dettagli vedere la pagina facebook"/>
+    <tag k="email" v="rizzo.david@hotmail.it"/>
+    <tag k="name" v="Ristorante &quot;Dal Picciotto&quot; Sicilian food"/>
+    <tag k="phone" v="+39 339 2061969"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="7445282578" lat="43.1278925" lon="12.3651874">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="81/F"/>
+    <tag k="addr:postcode" v="06131"/>
+    <tag k="addr:street" v="Strada Perugia - San Marco"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/piadidea/"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description:covid19:it" v="Consegna a domicilio dal 23/04. Servizio a domicilio da giovedì a domenica, prenotazioni entro le 19:30"/>
+    <tag k="email" v="claudiabarlozzi@gmail.com"/>
+    <tag k="name" v="Pizzeria Piadidea"/>
+    <tag k="opening_hours:covid19" v="off"/>
+    <tag k="phone" v="+39 075 46738"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="takeaway:covid19" v="no"/>
+  </node>
+  <node id="7445282579" lat="43.1118599" lon="12.3907100">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="5/11"/>
+    <tag k="addr:postcode" v="06122"/>
+    <tag k="addr:street" v="Via Angusta"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/ilpaioloperugia/"/>
+    <tag k="cuisine" v="italian;pizza"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="email" v="Ilpaiolo-ga@hotmail.it"/>
+    <tag k="name" v="Il Paiolo"/>
+    <tag k="opening_hours:covid19" v="off"/>
+    <tag k="phone" v="+39 075 8674944"/>
   </node>
 
 </osm>
