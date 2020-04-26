@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1004 6cd3eaec">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-25T16:07:03Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-26T17:00:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1410495345" lat="43.1326241" lon="12.3621422">
     <tag k="addr:city" v="Perugia"/>
@@ -66,6 +66,23 @@
     <tag k="phone:mobile" v="+39 333 3540052"/>
     <tag k="website" v="https://www.trilogyclub.it/"/>
     <tag k="website:covid19" v="https://trilogy.ordini.online/"/>
+  </node>
+  <node id="2443483100" lat="43.1063305" lon="12.3777349">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="1/F"/>
+    <tag k="addr:postcode" v="06124"/>
+    <tag k="addr:street" v="Via Cortonese"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/PasticceriaEtrusca/"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="email" v="pasticceriaetrusca@live.it"/>
+    <tag k="name" v="Pasticceria Etrusca"/>
+    <tag k="opening_hours:covid19" v="off"/>
+    <tag k="phone" v="+39 075 5052524"/>
+    <tag k="phone:mobile" v="+39 393 9082603"/>
+    <tag k="shop" v="pastry"/>
+    <tag k="website" v="http://www.pasticceriaetrusca.it/"/>
   </node>
   <node id="2881724861" lat="43.0993857" lon="12.3911954">
     <tag k="addr:city" v="Perugia"/>
@@ -158,6 +175,25 @@
     <tag k="phone:mobile" v="+39 331 8779470"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.imattarelli.it/"/>
+  </node>
+  <node id="3933578733" lat="43.1278135" lon="12.3652927">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="81/A07"/>
+    <tag k="addr:postcode" v="06131"/>
+    <tag k="addr:street" v="Str. Perugia - S. Marco"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/GingilloLounge/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="email" v="gingillocommerciale@libero.it"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Gingillo Lounge Cafè"/>
+    <tag k="opening_hours:covid19" v="off"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39 075 41442"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4529101714" lat="43.1064017" lon="12.3914671">
     <tag k="addr:city" v="Perugia"/>
@@ -357,7 +393,7 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="regional"/>
     <tag k="delivery:covid19" v="yes"/>
-    <tag k="description:covid19:it" v="Consegna a domicilio gratuita Pranzo + Cena Perugia e limitrofi. Per menù e maggiori dettagli vedere la pagina facebook"/>
+    <tag k="description:it:covid19" v="Consegna a domicilio gratuita Pranzo + Cena Perugia e limitrofi. Per menù e maggiori dettagli vedere la pagina facebook"/>
     <tag k="email" v="rizzo.david@hotmail.it"/>
     <tag k="name" v="Ristorante &quot;Dal Picciotto&quot; Sicilian food"/>
     <tag k="opening_hours:covid19" v="off"/>
@@ -373,7 +409,7 @@
     <tag k="contact:facebook" v="https://www.facebook.com/piadidea/"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery:covid19" v="yes"/>
-    <tag k="description:covid19:it" v="Consegna a domicilio dal 23/04. Servizio a domicilio da giovedì a domenica, prenotazioni entro le 19:30"/>
+    <tag k="description:it:covid19" v="Consegna a domicilio dal 23/04. Servizio a domicilio da giovedì a domenica, prenotazioni entro le 19:30"/>
     <tag k="email" v="claudiabarlozzi@gmail.com"/>
     <tag k="name" v="Pizzeria Piadidea"/>
     <tag k="opening_hours:covid19" v="off"/>
@@ -404,14 +440,40 @@
     <tag k="contact:facebook" v="https://www.facebook.com/PizzeriaAcquaFarina/"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery:covid19" v="yes"/>
-    <tag k="description:covid19:it" v="Consegna a domicilio gratuita a pranzo e cena"/>
+    <tag k="description:it:covid19" v="Consegna a domicilio gratuita a pranzo e cena"/>
     <tag k="email" v="carancicosimo@yahoo.it"/>
     <tag k="name" v="Pizzeria Acqua e Farina"/>
     <tag k="opening_hours:covid19" v="off"/>
-    <tag k="phone:mobile" v="+39 331 4267613"/>
-    <tag k="phone:mobile_1" v="+39 333 8767153"/>
+    <tag k="phone:mobile" v="+39 331 4267613; +39 333 8767153"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pizzeriaacquaefarina.com/"/>
+  </node>
+  <node id="7449394684" lat="43.0917091" lon="12.4424833">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="254"/>
+    <tag k="addr:postcode" v="06135"/>
+    <tag k="addr:street" v="Via Alessandro Manzoni"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/momangioio/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description:covid19:it" v="Consegna gratuita su tutto il comune di Perugia. Vedere pagina facebook per prodotti disponibili"/>
+    <tag k="email" v="annalisa89te@hotmail.it"/>
+    <tag k="gluten_free" v="yes"/>
+    <tag k="name" v="Mo' Mangio Io"/>
+    <tag k="opening_hours" v="Tu-Th 07:00-14:00; Fr,Sa 08:00-13:00,16:00-18:00"/>
+    <tag k="phone" v="+39 075 3725656"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="website" v="https://momangioio.business.site/"/>
+  </node>
+  <node id="7449533690" lat="43.1074365" lon="12.3907958">
+    <tag k="addr:city" v="Perugia"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="06121"/>
+    <tag k="addr:street" v="Corso Cavour"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="email" v="qubrara@gmail.com"/>
+    <tag k="name" v="Birreria Quei bravi ragazzi"/>
+    <tag k="phone:mobile" v="+39 348 1625521"/>
   </node>
 
 </osm>
